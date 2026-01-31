@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Voix des Jeunes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      font-size: 26px;
+      margin-top: 30px;
+    }
+    strong {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Voix des Jeunes</h1>
+
+  <h2>Jeune en Afrique : entre larmes, rêves et espoir</h2>
+
+  <p>
+    Être jeune en Afrique, ce n’est pas seulement sourire sur une photo.
+    C’est souvent se réveiller très tôt, avec des rêves plein la tête,
+    mais les poches vides.
+  </p>
+
+  <p>
+    Beaucoup de jeunes grandissent dans la difficulté.
+    Certains vont à l’école le ventre vide.
+    D’autres abandonnent leurs études non pas par manque d’intelligence,
+    mais par manque de moyens.
+  </p>
+
+  <p>
+    Le chômage fait mal. Très mal.
+    Quand un jeune termine ses études et rentre à la maison sans travail,
+    il sent le poids du regard des autres.
+  </p>
+
+  <p>
+    Et pourtant, malgré la douleur, les jeunes tiennent bon.
+    Ils apprennent seuls, créent avec peu, tombent et se relèvent.
+  </p>
+
+  <p><strong>
+    Les jeunes africains ne demandent pas la pitié.
+    Ils demandent une chance.
+  </strong></p>
+
+  <p>
+    Un jour, les larmes d’aujourd’hui deviendront des histoires de victoire.
+  </p>
+
+</body>
+</html>
